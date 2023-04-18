@@ -7,153 +7,153 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		A8F9152129ED4C4200BD003C /* AirPortChallange.docc in Sources */ = {isa = PBXBuildFile; fileRef = A8F9152029ED4C4200BD003C /* AirPortChallange.docc */; };
-		A8F9152729ED4C4200BD003C /* AirPortChallange.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A8F9151C29ED4C4100BD003C /* AirPortChallange.framework */; };
-		A8F9152C29ED4C4200BD003C /* AirPortChallangeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8F9152B29ED4C4200BD003C /* AirPortChallangeTests.swift */; };
-		A8F9152D29ED4C4200BD003C /* AirPortChallange.h in Headers */ = {isa = PBXBuildFile; fileRef = A8F9151F29ED4C4200BD003C /* AirPortChallange.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		A897C24629EEE34600B91E54 /* AirPortChallenge.docc in Sources */ = {isa = PBXBuildFile; fileRef = A897C24529EEE34600B91E54 /* AirPortChallenge.docc */; };
+		A897C24C29EEE34600B91E54 /* AirPortChallenge.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A897C24129EEE34600B91E54 /* AirPortChallenge.framework */; };
+		A897C25129EEE34600B91E54 /* AirPortChallengeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A897C25029EEE34600B91E54 /* AirPortChallengeTests.swift */; };
+		A897C25229EEE34600B91E54 /* AirPortChallenge.h in Headers */ = {isa = PBXBuildFile; fileRef = A897C24429EEE34600B91E54 /* AirPortChallenge.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		A8F9152829ED4C4200BD003C /* PBXContainerItemProxy */ = {
+		A897C24D29EEE34600B91E54 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = A8F9151329ED4C4100BD003C /* Project object */;
+			containerPortal = A897C23829EEE34600B91E54 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = A8F9151B29ED4C4100BD003C;
-			remoteInfo = AirPortChallange;
+			remoteGlobalIDString = A897C24029EEE34600B91E54;
+			remoteInfo = AirPortChallenge;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		A8F9151C29ED4C4100BD003C /* AirPortChallange.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = AirPortChallange.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		A8F9151F29ED4C4200BD003C /* AirPortChallange.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AirPortChallange.h; sourceTree = "<group>"; };
-		A8F9152029ED4C4200BD003C /* AirPortChallange.docc */ = {isa = PBXFileReference; lastKnownFileType = folder.documentationcatalog; path = AirPortChallange.docc; sourceTree = "<group>"; };
-		A8F9152629ED4C4200BD003C /* AirPortChallangeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AirPortChallangeTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		A8F9152B29ED4C4200BD003C /* AirPortChallangeTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AirPortChallangeTests.swift; sourceTree = "<group>"; };
+		A897C24129EEE34600B91E54 /* AirPortChallenge.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = AirPortChallenge.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		A897C24429EEE34600B91E54 /* AirPortChallenge.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AirPortChallenge.h; sourceTree = "<group>"; };
+		A897C24529EEE34600B91E54 /* AirPortChallenge.docc */ = {isa = PBXFileReference; lastKnownFileType = folder.documentationcatalog; path = AirPortChallenge.docc; sourceTree = "<group>"; };
+		A897C24B29EEE34600B91E54 /* AirPortChallengeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AirPortChallengeTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		A897C25029EEE34600B91E54 /* AirPortChallengeTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AirPortChallengeTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		A8F9151929ED4C4100BD003C /* Frameworks */ = {
+		A897C23E29EEE34600B91E54 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		A8F9152329ED4C4200BD003C /* Frameworks */ = {
+		A897C24829EEE34600B91E54 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A8F9152729ED4C4200BD003C /* AirPortChallange.framework in Frameworks */,
+				A897C24C29EEE34600B91E54 /* AirPortChallenge.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		A8F9151229ED4C4100BD003C = {
+		A897C23729EEE34600B91E54 = {
 			isa = PBXGroup;
 			children = (
-				A8F9151E29ED4C4100BD003C /* AirPortChallange */,
-				A8F9152A29ED4C4200BD003C /* AirPortChallangeTests */,
-				A8F9151D29ED4C4100BD003C /* Products */,
+				A897C24329EEE34600B91E54 /* AirPortChallenge */,
+				A897C24F29EEE34600B91E54 /* AirPortChallengeTests */,
+				A897C24229EEE34600B91E54 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		A8F9151D29ED4C4100BD003C /* Products */ = {
+		A897C24229EEE34600B91E54 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				A8F9151C29ED4C4100BD003C /* AirPortChallange.framework */,
-				A8F9152629ED4C4200BD003C /* AirPortChallangeTests.xctest */,
+				A897C24129EEE34600B91E54 /* AirPortChallenge.framework */,
+				A897C24B29EEE34600B91E54 /* AirPortChallengeTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		A8F9151E29ED4C4100BD003C /* AirPortChallange */ = {
+		A897C24329EEE34600B91E54 /* AirPortChallenge */ = {
 			isa = PBXGroup;
 			children = (
-				A8F9151F29ED4C4200BD003C /* AirPortChallange.h */,
-				A8F9152029ED4C4200BD003C /* AirPortChallange.docc */,
+				A897C24429EEE34600B91E54 /* AirPortChallenge.h */,
+				A897C24529EEE34600B91E54 /* AirPortChallenge.docc */,
 			);
-			path = AirPortChallange;
+			path = AirPortChallenge;
 			sourceTree = "<group>";
 		};
-		A8F9152A29ED4C4200BD003C /* AirPortChallangeTests */ = {
+		A897C24F29EEE34600B91E54 /* AirPortChallengeTests */ = {
 			isa = PBXGroup;
 			children = (
-				A8F9152B29ED4C4200BD003C /* AirPortChallangeTests.swift */,
+				A897C25029EEE34600B91E54 /* AirPortChallengeTests.swift */,
 			);
-			path = AirPortChallangeTests;
+			path = AirPortChallengeTests;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		A8F9151729ED4C4100BD003C /* Headers */ = {
+		A897C23C29EEE34600B91E54 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A8F9152D29ED4C4200BD003C /* AirPortChallange.h in Headers */,
+				A897C25229EEE34600B91E54 /* AirPortChallenge.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		A8F9151B29ED4C4100BD003C /* AirPortChallange */ = {
+		A897C24029EEE34600B91E54 /* AirPortChallenge */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A8F9153029ED4C4200BD003C /* Build configuration list for PBXNativeTarget "AirPortChallange" */;
+			buildConfigurationList = A897C25529EEE34600B91E54 /* Build configuration list for PBXNativeTarget "AirPortChallenge" */;
 			buildPhases = (
-				A8F9151729ED4C4100BD003C /* Headers */,
-				A8F9151829ED4C4100BD003C /* Sources */,
-				A8F9151929ED4C4100BD003C /* Frameworks */,
-				A8F9151A29ED4C4100BD003C /* Resources */,
+				A897C23C29EEE34600B91E54 /* Headers */,
+				A897C23D29EEE34600B91E54 /* Sources */,
+				A897C23E29EEE34600B91E54 /* Frameworks */,
+				A897C23F29EEE34600B91E54 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = AirPortChallange;
-			productName = AirPortChallange;
-			productReference = A8F9151C29ED4C4100BD003C /* AirPortChallange.framework */;
+			name = AirPortChallenge;
+			productName = AirPortChallenge;
+			productReference = A897C24129EEE34600B91E54 /* AirPortChallenge.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		A8F9152529ED4C4200BD003C /* AirPortChallangeTests */ = {
+		A897C24A29EEE34600B91E54 /* AirPortChallengeTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A8F9153329ED4C4200BD003C /* Build configuration list for PBXNativeTarget "AirPortChallangeTests" */;
+			buildConfigurationList = A897C25829EEE34600B91E54 /* Build configuration list for PBXNativeTarget "AirPortChallengeTests" */;
 			buildPhases = (
-				A8F9152229ED4C4200BD003C /* Sources */,
-				A8F9152329ED4C4200BD003C /* Frameworks */,
-				A8F9152429ED4C4200BD003C /* Resources */,
+				A897C24729EEE34600B91E54 /* Sources */,
+				A897C24829EEE34600B91E54 /* Frameworks */,
+				A897C24929EEE34600B91E54 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				A8F9152929ED4C4200BD003C /* PBXTargetDependency */,
+				A897C24E29EEE34600B91E54 /* PBXTargetDependency */,
 			);
-			name = AirPortChallangeTests;
-			productName = AirPortChallangeTests;
-			productReference = A8F9152629ED4C4200BD003C /* AirPortChallangeTests.xctest */;
+			name = AirPortChallengeTests;
+			productName = AirPortChallengeTests;
+			productReference = A897C24B29EEE34600B91E54 /* AirPortChallengeTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		A8F9151329ED4C4100BD003C /* Project object */ = {
+		A897C23829EEE34600B91E54 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1430;
 				LastUpgradeCheck = 1430;
 				TargetAttributes = {
-					A8F9151B29ED4C4100BD003C = {
+					A897C24029EEE34600B91E54 = {
 						CreatedOnToolsVersion = 14.3;
 					};
-					A8F9152529ED4C4200BD003C = {
+					A897C24A29EEE34600B91E54 = {
 						CreatedOnToolsVersion = 14.3;
 					};
 				};
 			};
-			buildConfigurationList = A8F9151629ED4C4100BD003C /* Build configuration list for PBXProject "AirPortChallange" */;
+			buildConfigurationList = A897C23B29EEE34600B91E54 /* Build configuration list for PBXProject "AirPortChallenge" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -161,26 +161,26 @@
 				en,
 				Base,
 			);
-			mainGroup = A8F9151229ED4C4100BD003C;
-			productRefGroup = A8F9151D29ED4C4100BD003C /* Products */;
+			mainGroup = A897C23729EEE34600B91E54;
+			productRefGroup = A897C24229EEE34600B91E54 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				A8F9151B29ED4C4100BD003C /* AirPortChallange */,
-				A8F9152529ED4C4200BD003C /* AirPortChallangeTests */,
+				A897C24029EEE34600B91E54 /* AirPortChallenge */,
+				A897C24A29EEE34600B91E54 /* AirPortChallengeTests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		A8F9151A29ED4C4100BD003C /* Resources */ = {
+		A897C23F29EEE34600B91E54 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		A8F9152429ED4C4200BD003C /* Resources */ = {
+		A897C24929EEE34600B91E54 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -190,34 +190,34 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		A8F9151829ED4C4100BD003C /* Sources */ = {
+		A897C23D29EEE34600B91E54 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A8F9152129ED4C4200BD003C /* AirPortChallange.docc in Sources */,
+				A897C24629EEE34600B91E54 /* AirPortChallenge.docc in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		A8F9152229ED4C4200BD003C /* Sources */ = {
+		A897C24729EEE34600B91E54 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A8F9152C29ED4C4200BD003C /* AirPortChallangeTests.swift in Sources */,
+				A897C25129EEE34600B91E54 /* AirPortChallengeTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		A8F9152929ED4C4200BD003C /* PBXTargetDependency */ = {
+		A897C24E29EEE34600B91E54 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = A8F9151B29ED4C4100BD003C /* AirPortChallange */;
-			targetProxy = A8F9152829ED4C4200BD003C /* PBXContainerItemProxy */;
+			target = A897C24029EEE34600B91E54 /* AirPortChallenge */;
+			targetProxy = A897C24D29EEE34600B91E54 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		A8F9152E29ED4C4200BD003C /* Debug */ = {
+		A897C25329EEE34600B91E54 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -280,7 +280,7 @@
 			};
 			name = Debug;
 		};
-		A8F9152F29ED4C4200BD003C /* Release */ = {
+		A897C25429EEE34600B91E54 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -336,7 +336,7 @@
 			};
 			name = Release;
 		};
-		A8F9153129ED4C4200BD003C /* Debug */ = {
+		A897C25629EEE34600B91E54 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -359,7 +359,7 @@
 				MARKETING_VERSION = 1.0;
 				MODULE_VERIFIER_SUPPORTED_LANGUAGES = "objective-c objective-c++";
 				MODULE_VERIFIER_SUPPORTED_LANGUAGE_STANDARDS = "gnu11 gnu++20";
-				PRODUCT_BUNDLE_IDENTIFIER = Amin.AirPortChallange;
+				PRODUCT_BUNDLE_IDENTIFIER = Amin.AirPortChallenge;
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SKIP_INSTALL = YES;
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -367,7 +367,7 @@
 			};
 			name = Debug;
 		};
-		A8F9153229ED4C4200BD003C /* Release */ = {
+		A897C25729EEE34600B91E54 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -390,7 +390,7 @@
 				MARKETING_VERSION = 1.0;
 				MODULE_VERIFIER_SUPPORTED_LANGUAGES = "objective-c objective-c++";
 				MODULE_VERIFIER_SUPPORTED_LANGUAGE_STANDARDS = "gnu11 gnu++20";
-				PRODUCT_BUNDLE_IDENTIFIER = Amin.AirPortChallange;
+				PRODUCT_BUNDLE_IDENTIFIER = Amin.AirPortChallenge;
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SKIP_INSTALL = YES;
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -398,7 +398,7 @@
 			};
 			name = Release;
 		};
-		A8F9153429ED4C4200BD003C /* Debug */ = {
+		A897C25929EEE34600B91E54 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -406,14 +406,14 @@
 				DEVELOPMENT_TEAM = 99TB4TR395;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = Amin.AirPortChallangeTests;
+				PRODUCT_BUNDLE_IDENTIFIER = Amin.AirPortChallengeTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
 		};
-		A8F9153529ED4C4200BD003C /* Release */ = {
+		A897C25A29EEE34600B91E54 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -421,7 +421,7 @@
 				DEVELOPMENT_TEAM = 99TB4TR395;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = Amin.AirPortChallangeTests;
+				PRODUCT_BUNDLE_IDENTIFIER = Amin.AirPortChallengeTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
@@ -431,34 +431,34 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		A8F9151629ED4C4100BD003C /* Build configuration list for PBXProject "AirPortChallange" */ = {
+		A897C23B29EEE34600B91E54 /* Build configuration list for PBXProject "AirPortChallenge" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				A8F9152E29ED4C4200BD003C /* Debug */,
-				A8F9152F29ED4C4200BD003C /* Release */,
+				A897C25329EEE34600B91E54 /* Debug */,
+				A897C25429EEE34600B91E54 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A8F9153029ED4C4200BD003C /* Build configuration list for PBXNativeTarget "AirPortChallange" */ = {
+		A897C25529EEE34600B91E54 /* Build configuration list for PBXNativeTarget "AirPortChallenge" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				A8F9153129ED4C4200BD003C /* Debug */,
-				A8F9153229ED4C4200BD003C /* Release */,
+				A897C25629EEE34600B91E54 /* Debug */,
+				A897C25729EEE34600B91E54 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A8F9153329ED4C4200BD003C /* Build configuration list for PBXNativeTarget "AirPortChallangeTests" */ = {
+		A897C25829EEE34600B91E54 /* Build configuration list for PBXNativeTarget "AirPortChallengeTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				A8F9153429ED4C4200BD003C /* Debug */,
-				A8F9153529ED4C4200BD003C /* Release */,
+				A897C25929EEE34600B91E54 /* Debug */,
+				A897C25A29EEE34600B91E54 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = A8F9151329ED4C4100BD003C /* Project object */;
+	rootObject = A897C23829EEE34600B91E54 /* Project object */;
 }
